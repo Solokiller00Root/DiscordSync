@@ -1,0 +1,5 @@
+name: DiscordSync
+version: '${project.version}'
+main: com.solo.discordsync.DiscordSync
+commands:
+  link:

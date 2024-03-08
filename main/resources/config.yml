@@ -1,0 +1,17 @@
+
+discord:
+  token: ""
+  guildId: ""
+  generalChannel: ""
+  roles:
+    admin: ""
+    member: ""
+
+
+
+database:
+  ip: ""
+  name: ""
+
+  user: ""
+  password: ""
